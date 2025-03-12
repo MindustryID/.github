@@ -12,8 +12,8 @@ Visi-Misi belum ditentukan oleh bersama, alhasil belum menampilkannya.
 Kau bisa bergabung secara sukarela, tetapi harus memberi persetujuan kepada anggota disini.
 Jika telah melakukan kontribusi penerjemahan Indonesia, para Admin akan memberikan undangan kepadamu.
 
-## Anggota yang terlibat
 <table align=center>
+  <h2>Anggota yang terlibat<h2>
 <tr>
   <td align=center width=120>
     <a href="https://github.com/willoizcitron">
