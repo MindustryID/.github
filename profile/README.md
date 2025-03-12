@@ -13,7 +13,7 @@ Kau bisa bergabung secara sukarela, tetapi harus memberi persetujuan kepada angg
 Jika telah melakukan kontribusi penerjemahan Indonesia, para Admin akan memberikan undangan kepadamu.
 
 <table align=center>
-  <h2>Anggota yang terlibat<h2>
+  <p align=center><b>Anggota yang terlibat</b></p>
 <tr>
   <td align=center width=120>
     <a href="https://github.com/willoizcitron">
